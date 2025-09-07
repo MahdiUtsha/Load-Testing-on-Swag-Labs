@@ -1,4 +1,4 @@
-# Load-Testing-on-Swag-Labs
+# Load-Testing-on-Swag-Labs Website
 A load testing is done on swag labs website to check how much load (user number) it can handle.
 
 ## Technologies Used
