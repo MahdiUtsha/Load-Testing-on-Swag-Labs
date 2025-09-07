@@ -24,7 +24,7 @@ A load testing is done on swag labs website to check how much load (user number)
 <img width="1920" height="331" alt="12d" src="https://github.com/user-attachments/assets/65b97199-d0b6-4248-88ca-13ef567b5c63" />
 
 - **Graph Result**
-- <img width="1920" height="1040" alt="12e" src="https://github.com/user-attachments/assets/57cf8743-5496-4b4a-9acd-edf9799741bf" />
+<img width="1920" height="1040" alt="12e" src="https://github.com/user-attachments/assets/57cf8743-5496-4b4a-9acd-edf9799741bf" />
 
 ## Prerequisites
 
